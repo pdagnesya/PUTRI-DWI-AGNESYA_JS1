@@ -1,5 +1,5 @@
 
-//if,else,nested if (menggunakan nested if, program hitung diskon sesuai kondisi)
+//if,else,nested if ( program hitung diskon sesuai kondisi)
 const readline = require('readline');
 const rl = readline.createInterface({
   input: process.stdin,
